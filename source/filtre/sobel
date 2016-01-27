@@ -1,0 +1,7 @@
+1			//double factor
+0			//double bias
+3			//int rows
+3			//int column
+-1 0 1
+-2 0 2
+-1 0 1
